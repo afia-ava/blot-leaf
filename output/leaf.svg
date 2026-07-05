@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1150" viewBox="0 0 800 1150">
+  <rect width="800" height="1150" fill="#f2ede1" />
+  <g id="leaf-back">
+    <path d="" fill="none" stroke="#b08252" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <g id="leaf-front">
+    <path d="" fill="none" stroke="#49582f" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <g id="stems">
+
+  </g>
+</svg>
